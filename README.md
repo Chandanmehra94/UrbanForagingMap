@@ -152,4 +152,4 @@ Meets requirements:
 MIT License.
 
 ---
-*Developed by Chandan Dehariya for college submission.*
+*Developed by Chandan Dehariya.*
