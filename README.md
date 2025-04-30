@@ -1,6 +1,6 @@
 # Urban Foraging Map
 
-Urban Foraging Map is a java full-stack web application that enables users to add and visualize urban foraging spots (e.g., fruit trees, edible plants) on an interactive map. Built with a **React** front-end and **Spring Boot** back-end, it features a Gen Z-inspired UI with vibrant gradients, glassmorphism, and animations. The app integrates a database, REST APIs, and external libraries, making it ideal for a college project submission.
+Urban Foraging Map is a java full-stack web application that enables users to add and visualize urban foraging spots (e.g., fruit trees, edible plants) on an interactive map. Built with a **React** front-end and **Spring Boot** back-end, it features a Gen Z-inspired UI with vibrant gradients, glassmorphism, and animations. The app integrates a database, REST APIs, and external libraries.
 
 ## Features
 - **Interactive Map**: Displays foraging spots with custom pins using Leaflet, with popups showing spot details.
